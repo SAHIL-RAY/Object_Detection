@@ -1,4 +1,4 @@
-# Clothing Outfit Detection On Custom Detaset Using Yolov5 Deep Learning.
+# Clothing Outfit Detection On Custom Dataset Using Yolov5 Deep Learning.
 I trained this model on custom dataset.My model can detect Clothing Outfit : Shirt, T-shirt and Shoes in both images as well as Video.
 I used Yolov5 and Deep Learning to build this Object Detection Model .
 
